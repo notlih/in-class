@@ -1,1 +1,7 @@
 /* we'll add some basic style here */
+
+body{
+    font-family: 'Helvetica', 'Lucida Sans Unicode';
+    font-size: 2em;
+    color: rgba(28,144,40,0.5);
+}
